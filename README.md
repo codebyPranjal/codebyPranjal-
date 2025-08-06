@@ -10,5 +10,5 @@
 - 🌐 Web Development: HTML, CSS, JavaScript, Bootstrap  
 - 📊 Data Analytics: Excel, Python (Pandas), Power BI, Tableau
 
-- [GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebyPranjal&show_icons=true&theme=default)
+- [GitHub Stats](https://github-readme-stats.vercel.app/api?username=codebyPranjal&show_icons=true&theme=tokyonight)
 
